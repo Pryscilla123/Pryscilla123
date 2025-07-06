@@ -46,7 +46,7 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Pryscilla%20Medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pryscillamedeiros)](www.linkedin.com/in/pryscillamedeiros)
-[![Outlook Badge](https://img.shields.io/badge/-pryscillaromao@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pryscillaromao@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-pryscillaromao@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pryscillaromao@hotmail.com)](mailto:pryscillaromao@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/Pryscilla123?label=follow&style=social)](https://github.com/Pryscilla123)
 
 <!---
